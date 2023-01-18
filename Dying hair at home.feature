@@ -11,3 +11,4 @@ And wait 30 min
 And wash my hair with water
 And blow dry them
 Then then my hair is black
+
