@@ -66,3 +66,4 @@ Examples:
   | 112            | 1         | 1234567        | email@0.com    | linkedin.com | github.com | www.homepage.com | 500    | "email already taken" |
   | 112            | 1         | 1234567        | 7#$E@email.com | linkedin.com | github.com | www.homepage.com | 500    | "email already taken" |
   | 112            | 1         | 1234567        | n/a            | linkedin.com | github.com | www.homepage.com | 422    | "required email"      |
+
