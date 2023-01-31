@@ -2,7 +2,7 @@
 Feature: Create an application
 
 Background: 
-Given the user with ID "1" is authenticated for the seasion and valid token is given
+Given the user with ID "1" is authenticated for the session and valid token is given
 
 Scenario: Create an unique application
 Given the valid token is placed in Authorization tab, Token field
